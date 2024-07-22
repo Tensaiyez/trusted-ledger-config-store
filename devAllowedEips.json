@@ -189,7 +189,7 @@
     "mrEnclave": "58f61ec09161674f2d5106fb2bde906d78454624aec2a6876c68baabbb06dfdc",
     "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
     "isvProdId": "1",
-    "isvSvn": "0000",
+    "isvSvn": "0",
     "buildVersion": "0.0.0-632",
     "semver": "0.0.0",
     "dateCreated": "2024-07-03T20:40:06Z"
@@ -198,6 +198,15 @@
     "mrEnclave": "7ddd445e1f69fae34277c35ff92ae1200fd1006b910c38d28be8d1d200416397",
     "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
     "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "0.0.0-632",
+    "semver": "0.0.0",
+    "dateCreated": "2024-07-03T20:40:06Z"
+  },
+  {
+    "mrEnclave": "70c742367d5ecd7cae862cf7bb8203799f5e05997e537f57ccbc2ed0284217c1",
+    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
+    "isvProdId": "0",
     "isvSvn": "0",
     "buildVersion": "0.0.0-632",
     "semver": "0.0.0",
